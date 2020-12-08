@@ -1,4 +1,5 @@
 Robert Neubauer
+
 Equity in Healthcare: How Big Data Can Eliminate Racial Bias and Structural Discrimination
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Big Data is helping to reshape healthcare through major advancements in telehealth and precision medicine. Due to the swift increase in telehealth services due to the COVID-19 pandemic, researchers at the University of California San Francisco have found that black and hispanic patients use these services less frequently than white patients. Prior to the pandemic, research showed that racial and ethnic minorities were disadvantaged by the “digital divide” [12]. These differences were attributed to disparities in access to technology and digital literacy [11]. Studies like these highlight how racial bias in healthcare is getting detected more frequently; However, there are few attempts to eradicate it through the use of similar technology. This has implications in various areas of healthcare including major healthcare algorithms, telehealth, precision medicine, and overall care provision. 
