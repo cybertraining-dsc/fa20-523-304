@@ -71,45 +71,45 @@ The process of providing internet access and devices with internet capabilities 
 
 Big Data is changing many areas of healthcare and all of the areas that it’s affecting can benefit from making structural changes in order to allow minorities to get equitable healthcare. This includes how the applications are put into place, since Big Data has the ability to demonstrate bias and reinforce structural discrimination in care. It should be commonplace to consider race or ethnicity, socioeconomic status, and other relevant social determinants of health in order to account for this. Several studies have displayed the need for different allocations of resources based on race and ethnicity. From the findings that black patients were often given more equitable treatment when matched with a primary care provider that was black and that COVID-19 has limited in-person resources, such as a bedside interpreter for non-English speaking patients, there should be a development of a resource that allows people to be matched with a primary care provider that aligns with their identity and to connect with them virtually. When considering the lack of trust black people and other minority populations have in the healthcare system, there are a variety of services that would help boost trust in the process of getting proper care. Given the circumstances surrounding COVID-19 pandemic, there is already an emphasis on making improvements within telehealth monitoring as barriers to telehealth have been significantly reduced. Several machine-learning based studies have highlighted the importance of geographic location’s impact on aspects of the social determinants of health, including the effects in segregated communities. Recent work has shown that black and other ethnic minority patients report having less involvement in medical decisions and lower levels of satisfaction of care. This should motivate researchers who are focused on improving big data applications in the healthcare sector to focus on these communities in order to eliminate disparities in care and increase the amount of minority healthcare workers in order to have accurate representation. From the survey data showing that minority populations were more likely to use telehealth services, there needs to be an effort to highlight these communities in future work surrounding telehealth and telemedicine. Several studies have prepared a foundation for what needs to be improved and have already paved the way for additional research. With the progress that these studies have made and continued reports of inadequacies in care, it is only a matter of time before substantial change is implemented and equitable care is available.
 
-## 7. Refernces
+## 7. References
 
-[^1]	["A Data-Driven Approach to Addressing Racial Disparities in Health Care Outcomes," Jul. 21, 2020. <https://hbr.org/2020/07/a-data-driven-approach-to-addressing-racial-disparities-in-health-care-outcomes> (accessed Dec. 07, 2020).](http://paperpile.com/b/9IXs7U/i6o0)
-
-
-[^2]	[Z. Obermeyer, B. Powers, C. Vogeli, and S. Mullainathan, "Dissecting racial bias in an algorithm used to manage the health of populations," Science, vol. 366, no. 6464, pp. 447–453, Oct. 2019, Accessed: Dec. 07, 2020. [Online].](http://paperpile.com/b/9IXs7U/NRPs)
+[^1]:	["A Data-Driven Approach to Addressing Racial Disparities in Health Care Outcomes," Jul. 21, 2020. <https://hbr.org/2020/07/a-data-driven-approach-to-addressing-racial-disparities-in-health-care-outcomes> (accessed Dec. 07, 2020).](http://paperpile.com/b/9IXs7U/i6o0)
 
 
-[^3]	[S. A. Ibrahim, M. E. Charlson, and D. B. Neill, "Big Data Analytics and the Struggle for Equity in Health Care: The Promise and Perils," Health Equity, vol. 4, no. 1, p. 99, 2020, Accessed: Dec. 07, 2020. [Online].](http://paperpile.com/b/9IXs7U/0HLR)
+[^2]:	[Z. Obermeyer, B. Powers, C. Vogeli, and S. Mullainathan, "Dissecting racial bias in an algorithm used to manage the health of populations," Science, vol. 366, no. 6464, pp. 447–453, Oct. 2019, Accessed: Dec. 07, 2020. [Online].](http://paperpile.com/b/9IXs7U/NRPs)
 
 
-[^4]	[C. L. F. Gilbert C. Gee, "STRUCTURAL RACISM AND HEALTH INEQUITIES: Old Issues, New Directions1," Du Bois Rev., vol. 8, no. 1, p. 115, Apr. 2011, Accessed: Dec. 07, 2020. [Online].](http://paperpile.com/b/9IXs7U/VuXu)
+[^3]:	[S. A. Ibrahim, M. E. Charlson, and D. B. Neill, "Big Data Analytics and the Struggle for Equity in Health Care: The Promise and Perils," Health Equity, vol. 4, no. 1, p. 99, 2020, Accessed: Dec. 07, 2020. [Online].](http://paperpile.com/b/9IXs7U/0HLR)
 
 
-[^5]	[J. N. G. Chazeman S. Jackson, "Addressing Health and Health-Care Disparities: The Role of a Diverse Workforce and the Social Determinants of Health," Public Health Rep., vol. 129, no. Suppl 2, p. 57, 2014, Accessed: Dec. 07, 2020. [Online].](http://paperpile.com/b/9IXs7U/mDYj)
+[^4]:	[C. L. F. Gilbert C. Gee, "STRUCTURAL RACISM AND HEALTH INEQUITIES: Old Issues, New Directions1," Du Bois Rev., vol. 8, no. 1, p. 115, Apr. 2011, Accessed: Dec. 07, 2020. [Online].](http://paperpile.com/b/9IXs7U/VuXu)
 
 
-[^6]	[A. Mamun et al., "Diversity in the Era of Precision Medicine - From Bench to Bedside Implementation," Ethn. Dis., vol. 29, no. 3, p. 517, 2019, Accessed: Dec. 07, 2020. [Online].](http://paperpile.com/b/9IXs7U/IZ1k)
+[^5]:	[J. N. G. Chazeman S. Jackson, "Addressing Health and Health-Care Disparities: The Role of a Diverse Workforce and the Social Determinants of Health," Public Health Rep., vol. 129, no. Suppl 2, p. 57, 2014, Accessed: Dec. 07, 2020. [Online].](http://paperpile.com/b/9IXs7U/mDYj)
 
 
-[^7]	[Institute of Medicine (US) Committee on Understanding and Eliminating Racial and Ethnic Disparities, B. D. Smedley, A. Y. Stith, and A. R. Nelson, "PATIENT-PROVIDER COMMUNICATION: THE EFFECT OF RACE AND ETHNICITY ON PROCESS AND OUTCOMES OF HEALTHCARE," in Unequal Treatment: Confronting Racial and Ethnic Disparities in Health Care, National Academies Press (US), 2003.](http://paperpile.com/b/9IXs7U/A4tr)
+[^6]:	[A. Mamun et al., "Diversity in the Era of Precision Medicine - From Bench to Bedside Implementation," Ethn. Dis., vol. 29, no. 3, p. 517, 2019, Accessed: Dec. 07, 2020. [Online].](http://paperpile.com/b/9IXs7U/IZ1k)
 
 
-[^8]	[CDC, "Using Telehealth to Expand Access to Essential Health Services during the COVID-19 Pandemic," Sep. 10, 2020. <https://www.cdc.gov/coronavirus/2019-ncov/hcp/telehealth.html> (accessed Dec. 07, 2020).](http://paperpile.com/b/9IXs7U/0RYU)
+[^7]:	[Institute of Medicine (US) Committee on Understanding and Eliminating Racial and Ethnic Disparities, B. D. Smedley, A. Y. Stith, and A. R. Nelson, "PATIENT-PROVIDER COMMUNICATION: THE EFFECT OF RACE AND ETHNICITY ON PROCESS AND OUTCOMES OF HEALTHCARE," in Unequal Treatment: Confronting Racial and Ethnic Disparities in Health Care, National Academies Press (US), 2003.](http://paperpile.com/b/9IXs7U/A4tr)
 
 
-[^9]	["Telehealth Network Grant Program," Feb. 12, 2020. <https://www.hrsa.gov/grants/find-funding/hrsa-20-036> (accessed Dec. 07, 2020).](http://paperpile.com/b/9IXs7U/FjdO)
+[^8]:	[CDC, "Using Telehealth to Expand Access to Essential Health Services during the COVID-19 Pandemic," Sep. 10, 2020. <https://www.cdc.gov/coronavirus/2019-ncov/hcp/telehealth.html> (accessed Dec. 07, 2020).](http://paperpile.com/b/9IXs7U/0RYU)
 
 
-[^10]	["[No title]." <https://www.nejm.org/doi/full/10.1056/NEJMsr1503323> (accessed Dec. 07, 2020).](http://paperpile.com/b/9IXs7U/lyDn)
+[^9]:	["Telehealth Network Grant Program," Feb. 12, 2020. <https://www.hrsa.gov/grants/find-funding/hrsa-20-036> (accessed Dec. 07, 2020).](http://paperpile.com/b/9IXs7U/FjdO)
 
 
-[^11]	[K. Senz, "Racial disparities in telemedicine: A research roundup," Nov. 30, 2020. <https://journalistsresource.org/studies/government/health-care/racial-disparities-telemedicine/> (accessed Dec. 07, 2020).](http://paperpile.com/b/9IXs7U/Wsa3)
+[^10]:	["[No title]." <https://www.nejm.org/doi/full/10.1056/NEJMsr1503323> (accessed Dec. 07, 2020).](http://paperpile.com/b/9IXs7U/lyDn)
 
 
-[^12]	[E. Weber, S. J. Miller, V. Astha, T. Janevic, and E. Benn, "Characteristics of telehealth users in NYC for COVID-related care during the coronavirus pandemic," J. Am. Med. Inform. Assoc., Nov. 2020, doi: 10.1093/jamia/ocaa216.](http://paperpile.com/b/9IXs7U/kW1Y)
+[^11]:	[K. Senz, "Racial disparities in telemedicine: A research roundup," Nov. 30, 2020. <https://journalistsresource.org/studies/government/health-care/racial-disparities-telemedicine/> (accessed Dec. 07, 2020).](http://paperpile.com/b/9IXs7U/Wsa3)
 
 
-[^13]	["Study: Black patients more likely than white patients to use telehealth because of pandemic," Sep. 08, 2020. <https://www.healthcareitnews.com/news/study-black-patients-more-likely-white-patients-use-telehealth-because-pandemic> (accessed Dec. 07, 2020).](http://paperpile.com/b/9IXs7U/euqs)
+[^12]:	[E. Weber, S. J. Miller, V. Astha, T. Janevic, and E. Benn, "Characteristics of telehealth users in NYC for COVID-related care during the coronavirus pandemic," J. Am. Med. Inform. Assoc., Nov. 2020, doi: 10.1093/jamia/ocaa216.](http://paperpile.com/b/9IXs7U/kW1Y)
 
 
-[^14]	[X. Zhang et al., "Big Data Science: Opportunities and Challenges to Address Minority Health and Health Disparities in the 21st Century," Ethn. Dis., vol. 27, no. 2, p. 95, 2017, Accessed: Dec. 07, 2020. [Online].](http://paperpile.com/b/9IXs7U/E4t2)
+[^13]:	["Study: Black patients more likely than white patients to use telehealth because of pandemic," Sep. 08, 2020. <https://www.healthcareitnews.com/news/study-black-patients-more-likely-white-patients-use-telehealth-because-pandemic> (accessed Dec. 07, 2020).](http://paperpile.com/b/9IXs7U/euqs)
+
+
+[^14]:	[X. Zhang et al., "Big Data Science: Opportunities and Challenges to Address Minority Health and Health Disparities in the 21st Century," Ethn. Dis., vol. 27, no. 2, p. 95, 2017, Accessed: Dec. 07, 2020. [Online].](http://paperpile.com/b/9IXs7U/E4t2)
