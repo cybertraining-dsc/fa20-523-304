@@ -1,4 +1,4 @@
-#How Big Data Can Eliminate Racial Bias and Structural Discrimination
+# How Big Data Can Eliminate Racial Bias and Structural Discrimination
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-304/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-304/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-304/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-304/actions)
