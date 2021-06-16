@@ -3,7 +3,7 @@ date: 2021-03-15
 title:  How Big Data Can Eliminate Racial Bias and Structural Discrimination
 linkTitle: Racial bias
 tags: ["report", "ai", "health"]
-description: Examination of how bias is affecting minority communities in the United States, and discusses improvements in order to achieve more equitable care in the industry. 
+description: "Healthcare is utilizing Big Data to to assist in creating systems that can be used to detect health risks, implement preventative care, and provide an overall better experience for patients. However, there are fundmental issues that exist in the creation and implementation of these systems. Medical algorithms and efforts in precision medicine often neglect the structural inequalities that already exist for minorities accessing healthcare and therefore perpetuate bias in the healthcare industry. The author examines current applications of these concepts, how they are affecting minority communities in the United States, and discusses improvements in order to achieve more equitable care in the industry." 
 author: Robert Neubauer
 resources:
 - src: "**.{png,jpg}"
