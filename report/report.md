@@ -1,4 +1,14 @@
-# How Big Data Can Eliminate Racial Bias and Structural Discrimination
+---
+date: 2021-03-15
+title:  How Big Data Can Eliminate Racial Bias and Structural Discrimination
+linkTitle: Racial bias
+tags: ["report", "ai", "health"]
+description: Examination of how bias is affecting minority communities in the United States, and discusses improvements in order to achieve more equitable care in the industry. 
+author: Robert Neubauer
+resources:
+- src: "**.{png,jpg}"
+  title: "Image #:counter"
+---
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-304/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-304/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-304/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-304/actions)
