@@ -5,6 +5,7 @@ linkTitle: Racial bias
 tags: ["report", "ai", "health"]
 description: "Healthcare is utilizing Big Data to to assist in creating systems that can be used to detect health risks, implement preventative care, and provide an overall better experience for patients. However, there are fundmental issues that exist in the creation and implementation of these systems. Medical algorithms and efforts in precision medicine often neglect the structural inequalities that already exist for minorities accessing healthcare and therefore perpetuate bias in the healthcare industry. The author examines current applications of these concepts, how they are affecting minority communities in the United States, and discusses improvements in order to achieve more equitable care in the industry." 
 author: Robert Neubauer
+github_url: https://github.com/cybertraining-dsc/fa20-523-304/edit/main/report/report.md
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
